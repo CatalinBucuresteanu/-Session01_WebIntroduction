@@ -1,2 +1,2 @@
 # -Session01_WebIntroductio
-SCHIMBARE README
+EDITARE README
